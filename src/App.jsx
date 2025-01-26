@@ -28,7 +28,7 @@ function App() {
             {" "}
             Add Budget
           </Button>
-          <Button variant="outline-primary" onClick={openAddExpenseModal}>
+          <Button variant="outline-primary" onClick={openAddExpenseModel}>
             {" "}
             Add Expense
           </Button>
